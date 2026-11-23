@@ -45,15 +45,13 @@ Created interactive dashboards to analyze:
 
 ## Repository Structure
 
-```text
 Hotel-Management-Data-Analysis/
 │
-├── Hotel_Cleaned_Dataset.csv
+├── Hotel_Booking_Analytics_Dataset.xlsx
 ├── Hotel_Management_Analysis.ipynb
-├── Hotel_Management_Analysis.sql
 ├── Hotel_Management_Dashboard.pbix
+├── hotel_management.sql
 └── README.md
-```
 
 ## Conclusion
 This project demonstrates the application of Python, SQL, and Power BI in an end-to-end data analytics workflow. It transforms hotel booking data into meaningful business insights that can help improve operational efficiency and support data-driven decisions.
